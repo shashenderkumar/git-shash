@@ -1,0 +1,2 @@
+-init this will create a repository
+-ls this will list the content of the directory
