@@ -3,3 +3,4 @@ print('how are you')
 import os
 print(os.name)
 print('end of program')
+print('ready for transfer')
